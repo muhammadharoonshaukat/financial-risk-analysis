@@ -135,7 +135,7 @@ This dashboard enables financial institutions to:
 -	Apply stricter checks for high-risk profiles 
 
 ### 💳 Transaction Monitoring
--	Flag: 
+Flag: 
  -	High withdrawals 
  -	Large international transfers 
 -	Use automated alerts for abnormal activity 
