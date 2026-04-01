@@ -48,9 +48,9 @@ This project demonstrates an end-to-end data analytics workflow using Power BI, 
 -	Fraud rate stands at 3.56%, indicating a moderate level of risk exposure 
 -	Fraud loss of $2.92M highlights significant financial impact despite lower frequency 
 -	Fraud is concentrated in specific behavioral patterns: 
-  →	High withdrawals 
-  →	Large international transfers 
-  →	High-risk customers
+  -	High withdrawals
+  -	Large international transfers
+  -	High-risk customers
 
 👉 Business Insight: Fraud is not random and it is behavior-driven and can be predicted.
 
@@ -72,11 +72,11 @@ This project demonstrates an end-to-end data analytics workflow using Power BI, 
 
 ## 📈 Loan Approval Analysis
 -	Loan approval varies significantly across occupations and purposes 
--	Key observations: 
- →	Auto purchase: Lawyers → 58.58% approval 
- →	Home improvement: Teachers → 50.35% approval 
- →	Medical expenses: Engineers/Artists → ~47% 
- →	Small business: Teachers → 50% approval
+-	Key observations:
+  - Auto purchase: Lawyers → 58.58% approval
+  - Home improvement: Teachers → 50.35% approval
+  - Medical expenses: Engineers/Artists → ~47%
+  - Small business: Teachers → 50% approval
  	
 👉 Insight: Loan decisions are profile-driven, not uniform.
 
