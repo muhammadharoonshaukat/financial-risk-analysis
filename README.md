@@ -11,5 +11,10 @@ The project demonstrates how data can be used to enhance:
    
 This project demonstrates an end-to-end data analytics workflow using Power BI, DAX, and PostSQL.
 
+## 📁 Dataset & Source
+-	Source: Kaggle Dataset (https://www.kaggle.com/datasets/s3r1alsh0ck/finance-dataset-for-credit-risk-fraud-detection/data)
+-	Time Period: January 2023 – December 2023 (Synthetic Dates) 
+-	Purpose: Used for learning and building financial risk, fraud detection, and credit risk analysis dashboards.
+
 ![Dashboard](./images/dashborad1.png)
 ![Dashboard](./images/dashborad2.png)
