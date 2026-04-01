@@ -72,7 +72,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI, 
 
 ## 📈 Loan Approval Analysis
 -	Loan approval varies significantly across occupations and purposes 
--	Key observations:
+Key observations:
   - Auto purchase: Lawyers → 58.58% approval
   - Home improvement: Teachers → 50.35% approval
   - Medical expenses: Engineers/Artists → ~47%
