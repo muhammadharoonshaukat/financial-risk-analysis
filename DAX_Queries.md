@@ -5,7 +5,7 @@
 CREATE DATABASE financial_data; 
 
 ## Create Table to Import CVS File
-
+```DAX
 CREATE TABLE financial_data (
     age INT,
     occupation TEXT,
@@ -27,7 +27,7 @@ CREATE TABLE financial_data (
 );
 
 ## See the Structure of Table
-
+```DAX
 select * from financial_data
 
 -- Import directly or Use codes 
