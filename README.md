@@ -160,5 +160,5 @@ This project demonstrates how financial data can be leveraged to:
 ## 🛠️ Tools & Technologies Used
 -	Power BI → Dashboard & visualization 
 -	DAX → Measures and calculations 
--	PostgreSQL → Data querying 👉 [View PostgreSQL Queries](./PostgreSQL_Queries.sql)
+-	PostgreSQL → Data querying 👉 [View Queries](./PostgreSQL_Queries.md)
 - Kaggle Dataset → Data source 
