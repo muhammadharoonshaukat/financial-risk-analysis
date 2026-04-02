@@ -1,7 +1,9 @@
 # 📊 DAX Queries for Financial Analysis
 
 ## Create Database
+**```DAX**
 CREATE DATABASE financial_data; 
+**```**
 
 ## Create Table to Import CVS File
 
