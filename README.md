@@ -158,7 +158,7 @@ This project demonstrates how financial data can be leveraged to:
 👉 With a 3.56% fraud rate leading to $2.92M loss, the project highlights the importance of data-driven fraud detection and risk management systems in modern financial institutions.
 
 ## 🛠️ Tools & Technologies Used
--	Power BI → Dashboard & visualization 
+-	Power BI → Dashboard & visualization 👉 [View Dashboard](./Financial Dashboard.pdf)
 -	DAX → Measures and calculations 
 -	PostgreSQL → Data querying 👉 [View Queries](./PostgreSQL_Queries.md)
 - Kaggle Dataset → Data source 
