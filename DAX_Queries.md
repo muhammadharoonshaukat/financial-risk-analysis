@@ -1,12 +1,14 @@
 # 📊 DAX Queries for Financial Analysis
 
 ## Create Database
-```DAX
-CREATE DATABASE financial_data; 
-##
+
+```sql id="sql1"
+
+CREATE DATABASE financial_data;
 
 ## Create Table to Import CVS File
-```DAX
+
+```sql id="sql1"
 CREATE TABLE financial_data (
     age INT,
     occupation TEXT,
@@ -28,7 +30,8 @@ CREATE TABLE financial_data (
 );
 
 ## See the Structure of Table
-```DAX
+
+```sql id="sql1"
 select * from financial_data
 
 -- Import directly or Use codes 
