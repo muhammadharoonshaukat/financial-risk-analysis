@@ -1,4 +1,4 @@
-# 📊 DAX Queries for Financial Analysis
+# 📊 PostgreSQL Queries for Financial Analysis
 
 ```sql id="sql1"
 ## Create Database
