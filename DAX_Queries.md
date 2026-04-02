@@ -1,4 +1,4 @@
-# 📊 PostgreSQL Queries for Financial Analysis
+# 📊 PostgreSQL Queries for Financial Risk, Credit Risk & Fraud Analysis
 
 ```sql id="sql1"
 ## Create Database
