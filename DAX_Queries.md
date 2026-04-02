@@ -4,6 +4,7 @@
 CREATE DATABASE financial_data; 
 
 ## Create Table to Import CVS File
+
 CREATE TABLE financial_data (
     age INT,
     occupation TEXT,
@@ -25,6 +26,7 @@ CREATE TABLE financial_data (
 );
 
 ## See the Structure of Table
+
 select * from financial_data
 
 -- Import directly or Use codes 
@@ -37,6 +39,7 @@ WITH (FORMAT csv, HEADER true);
 
 ### Net Cash Flow variable
 -------------------------
+
 SELECT *,
        deposits - withdrawals AS net_cash_flow
 FROM financial_data;
